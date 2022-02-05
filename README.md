@@ -33,7 +33,8 @@ def gcd():
  
 
 ## Output:
-![gcd of two number](gcd.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/93427255/152632993-e3dcd48a-46ca-4665-9687-0b692e2b5814.png)
+
 
 
 ## Result:
